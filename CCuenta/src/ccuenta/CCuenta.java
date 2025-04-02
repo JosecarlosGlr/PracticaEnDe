@@ -22,6 +22,7 @@ public class CCuenta {
         nombre =nom;
         cuenta =cue;
         saldo =sal;
+        tipoInteres =tipo;
     }
     public double estado(){
         return saldo;
